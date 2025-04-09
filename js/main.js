@@ -15,13 +15,13 @@ let mixer;
 const clock = new THREE.Clock();
 
 const params = {
-    asset: 'Samba Dancing'
+    asset: 'Angry'
 };
 
 const assets = [
-    'Samba Dancing',
-    'morph_test',
-    'Capoeira',
+    'Angry',
+    'Defeated',
+    'Taunt'
 ];
 
 
