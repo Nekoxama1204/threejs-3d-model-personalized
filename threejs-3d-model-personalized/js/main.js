@@ -14,11 +14,9 @@ let currentIndex = 0;
 const clock = new THREE.Clock();
 
 const assets = [
-    // 'Samba Dancing',
-    // 'morph_test',
-    'Capoeira',
-    'Rumba Dancing',
-    'Reaction'
+    'Angry',
+    'Defeated',
+    'Taunt'
 ];
 
 const params = {
